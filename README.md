@@ -2,9 +2,7 @@
 I’m currently learning c# and intend to start learning java in not too long.
 
 𝕏 ➜ https://x.com/ulisesdev
-[![alt text][1.1]][1]
-[1.1]: http://i.imgur.com/tXSoThF.png](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Reddit.png
-[1]: http://www.twitter.com/carlsednaoui](https://new.reddit.com/user/UlisesDeveloper/
+Reddit ➜ https://new.reddit.com/user/UlisesDeveloper/
 <!--
 https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Reddit.png
 **UlisesDeveloper/UlisesDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
