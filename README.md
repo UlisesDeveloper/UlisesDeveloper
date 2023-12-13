@@ -1,6 +1,7 @@
 ### Howdy 🫡
 I’m currently learning c# and intend to start java in not too long.
-![alt text](https://www.pngguru.in/storage/uploads/images/Twitter%20x%20logo%20png%20free%20download_1690392476_1358447790.webp)
+
+𝕏 ➜ https://x.com/ulisesdev
 <!--
 **UlisesDeveloper/UlisesDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
