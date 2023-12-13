@@ -1,5 +1,5 @@
 ### Howdy 🫡
-I’m currently learning c# and intend to start learning java in not too long.
+I’m currently learning C# and intend to start learning Java in not too long.
 
 
 𝕏 ➜ https://x.com/ulisesdev
