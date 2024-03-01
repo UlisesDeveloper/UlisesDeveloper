@@ -2,8 +2,8 @@
 I’m currently learning C# and intend to start learning Java in not too long.
 
 
+Stack Overflow ➜ https://stackoverflow.com/users/22490596/ulisesdev?tab=summary
 𝕏 ➜ https://x.com/ulisesdev
-
 Reddit ➜ https://new.reddit.com/user/UlisesDeveloper/
 <!--
 https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Reddit.png
