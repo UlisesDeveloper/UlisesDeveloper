@@ -1,5 +1,5 @@
-### Howdy 🫡
-I’m currently learning C# and intend to start learning Java in not too long.
+### Hi 🫡
+I’m currently learning C# and intend to start learning SQL and Java in not too long.
 
 Email ➜ ulisesdeveloper@gmail.com
 
