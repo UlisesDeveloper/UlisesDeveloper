@@ -1,13 +1,10 @@
-### Hi 🫡
-I’m currently learning C# and intend to start learning SQL and Java in not too long.
+### Hi 
 
 Website ➜ https://ulis.es/
 
 Email ➜ ulisesdeveloper@gmail.com
 
 Stack Overflow ➜ https://stackoverflow.com/users/22490596/ulisesdev?tab=summary
-
-𝕏 ➜ https://x.com/ulisesdev
 
 Reddit ➜ https://new.reddit.com/user/UlisesDeveloper/
 <!--
